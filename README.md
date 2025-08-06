@@ -1,6 +1,8 @@
 # Cyclistic-Data-Analysis-Case-Study
 ## Google Data Analyst Professional Certificate Capstone.
 
+> **AVISO:** Clique [aqui](https://github.com/MarceloAngeli/Cyclistic-Data-Analysis-Case-Study/blob/main/README.pt.md) para obter a versão do READme em Português.
+
 ### 1. Introduction
 
 This project is a case study conducted as the capstone for the Google Data Analyst Professional Certificate. The analysis focuses on the bike-share usage data from a fictional company, Cyclistic, to understand the key differences between its two customer segments: casual riders and annual members. The ultimate goal is to provide data-driven recommendations for a marketing campaign aimed at converting casual riders into more profitable annual members. 
