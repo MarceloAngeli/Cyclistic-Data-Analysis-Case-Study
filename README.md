@@ -68,4 +68,4 @@ Based on the findings, the following recommendations are proposed for the market
 
 * **`Cyclistic_Case_Study_English_Version.pdf`:** The final, detailed report of the case study including visualizations and a narrative of the findings.
 * **`Cyclistic_Case_Study_English_Version.Rmd`:** The R Markdown file containing all the code used for data cleaning, analysis, and visualization.
-* **`README.en.md`:** This explanatory file.
+* **`README.md`:** This explanatory file.
